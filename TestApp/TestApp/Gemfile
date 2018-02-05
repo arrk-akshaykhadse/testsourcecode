@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'mysql'
+gem 'colorize'
+gem 'couchrest'
+gem 'mongo'
+
